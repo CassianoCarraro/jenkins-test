@@ -5,6 +5,6 @@ namespace Test;
 class TrivialClass {
 
 	public function doAnything() {
-		return false;
+		return true;
 	}
 }
